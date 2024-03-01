@@ -8,4 +8,5 @@ you must install Java on your computer, and download the Bio-formats MATLAB tool
 Be sure to add the directory containing the downloaded and unzipped Bio-formats toolbox to the MATLAB paths (MATLAB -> Home tab -> Set Path).
 
 Full Longtracker installation instructions: Longtracker_Installation.pdf.
+
 Longtracker operation manual: Longtracker_Manual.pdf
