@@ -2,8 +2,10 @@
 Manual cell tracking application. 
 
 Before running Longtracker:
+
 	Install MATLAB 2023b (or recent version) with Image and Signal Processing Toolboxes.
- 	Install Java on your computer.
+
+  	Install Java on your computer.
  	
 Download the Bio-formats MATLAB toolbox (bfmatlab.zip) located here: https://www.openmicroscopy.org/bio-formats/downloads/.
 
