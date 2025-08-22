@@ -1,6 +1,6 @@
-## LongTracker: A manual cell tracking application. 
+## LongTracker: A manual 3D cell tracking application. 
 
-### Before running Longtracker:
+### Installing Longtracker:
 
 1. _Install **MATLAB 2023b** (or recent version) including **Image** and **Signal Processing Toolboxes**._
 2. _Install **Java** on your computer._
